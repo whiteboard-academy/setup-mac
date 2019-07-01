@@ -1,4 +1,4 @@
-# Heya!
+# Welcome To Whiteboard!
 
 Welcome! Before we begin your first day of camp make sure you've completed the following things.
 
