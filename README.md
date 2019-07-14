@@ -274,3 +274,13 @@ Go to  > System Preferences > Keyboard. Click on the third tab (Shortcuts). A
 pane, click the radio button `All controls`. This way when you get a dialog with several options,
 you'll be able to type `Enter` to confirm, or `Space` to choose the cancel option. If you have more than
 two options, you can use tab to circle between them.
+
+## 11. Last part! Install Visual studio code plugins.
+
+Go to your visual studio code application
+
+1. Press `command + shift + x` to open up your extensions
+2. Search `material theme` and hit install
+3. Search `vetur` and also install
+4. Reload your visual studio code editor and you should see the changes
+
